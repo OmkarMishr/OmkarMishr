@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [pinterest clone](https://github.com/OmkarMishr/Pinterest-Clone)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Plone-Volto](https://github.com/plone/volto)
 
