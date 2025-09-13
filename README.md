@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarmishr&label=Profile%20views&color=0e75b6&style=flat" alt="omkarmishr" /> </p>
 
-- 🔭 I’m currently working on [pinterest clone](https://github.com/OmkarMishr/Pinterest-Clone)
+- 🔭 I’m currently working on [Hotel Management + CMS](https://github.com/OmkarMishr/hotel-management)
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Plone-Volto](https://github.com/plone/volto)
 
-- 🤝 I’m looking for help with [pinterest clone](https://github.com/OmkarMishr/Pinterest-Clone)
+- 🤝 I’m looking for help with [Hotel Management + CMS](https://github.com/OmkarMishr/hotel-management)
 
-- 💬 Ask me about **react , node and javascript**
+- 💬 Ask me about **react , next and javascript**
 
 - 📫 How to reach me **omkarmishra591@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MCF-zH81Tl1yQ_8BGeJo03CJFf9WbSED/view?usp=sharing](https://drive.google.com/file/d/1MCF-zH81Tl1yQ_8BGeJo03CJFf9WbSED/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MCF-zH81Tl1yQ_8BGeJo03CJFf9WbSED/view?usp=sharing](https://drive.google.com/file/d/1pJiuxoEG325E-pWpQoQfjAtVgnAZWvTb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
