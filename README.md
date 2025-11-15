@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarmishr&label=Profile%20views&color=0e75b6&style=flat" alt="omkarmishr" /> </p>
 
-- 🔭 I’m currently working on [Hotel Management + CMS](https://github.com/OmkarMishr/hotel-management)
+- 🔭 I’m currently working on [Secure-Escrow](https://github.com/OmkarMishr/Secure-Escrow)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 👯 I’m looking to collaborate on [Plone-Volto](https://github.com/plone/volto)
 
-- 🤝 I’m looking for help with [Hotel Management + CMS](https://github.com/OmkarMishr/hotel-management)
+- 🤝 I’m looking for help with [Secure-Escrow](https://github.com/OmkarMishr/Secure-Escrow)
 
 - 💬 Ask me about **react , next and javascript**
 
 - 📫 How to reach me **omkarmishra591@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MCF-zH81Tl1yQ_8BGeJo03CJFf9WbSED/view?usp=sharing](https://drive.google.com/file/d/1pJiuxoEG325E-pWpQoQfjAtVgnAZWvTb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MCF-zH81Tl1yQ_8BGeJo03CJFf9WbSED/view?usp=sharing]([https://drive.google.com/file/d/1pJiuxoEG325E-pWpQoQfjAtVgnAZWvTb/view?usp=sharing](https://drive.google.com/file/d/1GRfFHLOzHqgrXLxUJWqkyf9Y7w-FsPUN/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
