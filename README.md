@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarmishr&label=Profile%20views&color=0e75b6&style=flat" alt="omkarmishr" /> </p>
 
-- 🔭 I’m currently working on [Secure-Escrow](https://github.com/OmkarMishr/Secure-Escrow)
-
 - 🌱 I’m currently learning **DSA in C++**
 
 - 👯 I’m looking to collaborate on [Plone-Volto](https://github.com/plone/volto)
